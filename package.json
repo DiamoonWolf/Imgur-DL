@@ -1,0 +1,9 @@
+{
+    "name": "ImgurDL",
+    "version": "0.1.1",
+    "dependencies": {
+        "death": "^1.1.0"
+    },
+    "author": "DiamondWolf <diamondwolf@protonmail.com>",
+    "description": ""
+}
