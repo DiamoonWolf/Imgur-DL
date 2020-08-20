@@ -20,12 +20,6 @@ npm install imgurdl-dw
 Verify that you have the "pictures" folder in the same directory than the application, you can define how many links you want to browse in the conf.txt file.
 ```
 
-## Author
-
-👤 **DiamondWolf <diamondwolf@protonmail.com>**
-
-* Website: diamondwolf-dev.xyz
-* Github: [@DiamoonWolf](https://github.com/DiamoonWolf)
 
 ## Show your support
 
